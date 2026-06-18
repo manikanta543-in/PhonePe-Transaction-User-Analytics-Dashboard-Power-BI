@@ -89,3 +89,24 @@ Interactive Dashboard Design
 Business Analysis
 Data Visualization
 Storytelling with Data
+
+Files Included
+phonepe_analysis.pbix
+Dashboard Screenshots
+README.md
+
+Future Enhancements
+State-wise Analysis
+District-wise Analysis
+Customer Retention Analysis
+Predictive Analytics
+Revenue Forecasting
+#powerbi
+#business-intelligence
+#data-analytics
+#phonepe
+#dashboard
+#power-bi-dashboard
+#dax
+#analytics-project
+#business-analysis
